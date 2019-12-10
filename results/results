@@ -1,0 +1,54 @@
+#
+# Results on Monday December 09 2019 20:57:33 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:71.0) Gecko/20100101 Firefox/71.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1575925053,4344bfa4780b998089ac6efe6d8d01eb,Scale,0,0,practice,NULL,<center>This is a practice slider.</center>,1.0000000000,10.0000000000,8.6590000000
+#
+# Results on Monday December 09 2019 21:14:34 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1575926075,ac20ed5662daba6531461052eef7f8f6,Scale,0,0,practice,NULL,<center>This is a practice slider.</center>,1.0000000000,10.0000000000,6.7870000000
+#
+# Results on Tuesday December 10 2019 06:37:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:71.0) Gecko/20100101 Firefox/71.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value.
+1575959858,b74739bb4b2ae4f96f5b71e1e6a80f97,Scale,0,0,practice,NULL,<center>This is a practice slider.</center>,1.0000000000,10.0000000000,8.4700000000

@@ -1,0 +1,19 @@
+
+#
+# Results on Monday December 09 2019 20:57:33 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:71.0) Gecko/20100101 Firefox/71.0
+# Design number was non-random = 0
+#
+[false,0,["Controller name","Item number","Element number","Type","Group","html","startValue","endValue","value"],[[[0,"Scale"],[1,0],[2,0],[3,"practice"],[4,"NULL"],[5,"<center>This is a practice slider.</center>"],[6,"1.0000000000"],[7,"10.0000000000"],[8,"8.6590000000"]]],"P5L5qYUOoOJ0qUu4Beh4KQ",true]
+#
+# Results on Monday December 09 2019 21:14:34 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 1
+#
+[false,1,["Controller name","Item number","Element number","Type","Group","html","startValue","endValue","value"],[[[0,"Scale"],[1,0],[2,0],[3,"practice"],[4,"NULL"],[5,"<center>This is a practice slider.</center>"],[6,"1.0000000000"],[7,"10.0000000000"],[8,"6.7870000000"]]],"Ch3kA4z+4SwkF+DUFNCqNw",true]
+#
+# Results on Tuesday December 10 2019 06:37:37 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:71.0) Gecko/20100101 Firefox/71.0
+# Design number was non-random = 2
+#
+[false,2,["Controller name","Item number","Element number","Type","Group","html","startValue","endValue","value"],[[[0,"Scale"],[1,0],[2,0],[3,"practice"],[4,"NULL"],[5,"<center>This is a practice slider.</center>"],[6,"1.0000000000"],[7,"10.0000000000"],[8,"8.4700000000"]]],"P5L5qYUOoOJ0qUu4Beh4KQ",true]
